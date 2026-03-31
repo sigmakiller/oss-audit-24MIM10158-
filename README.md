@@ -27,7 +27,7 @@ This project is an audit of the open-source software Git. It explores its origin
 
 ### Step 1: Clone the repository
 
-git clone https://github.com/SIGMA KILLER/oss-audit-24MIM10158.git
+git clone https://github.com/sigmakiller/oss-audit-24MIM10158.git
 
 ### Step 2: Navigate to directory
 
